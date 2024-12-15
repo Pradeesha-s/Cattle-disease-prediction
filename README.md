@@ -1,1 +1,1 @@
-# Cattle-disease-prediction
+# Cattle-Disease-Prediction
